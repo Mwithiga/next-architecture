@@ -1,6 +1,9 @@
 {
-  "name": "nextjs-fullstack-app-template",
+  "name": "nextjs-architecture",
   "version": "0.1.0",
+  "author": "James Njoroge Mwithiga",
+  "license": "MIT",
+  "homepage": "https://github.com/Mwithiga/next-architecture",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -20,5 +23,10 @@
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5",
     "typescript": "4.6.3"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
   }
 }
